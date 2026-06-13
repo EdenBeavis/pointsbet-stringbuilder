@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <Project Path="pointsbet-stringbuilder-tests/pointsbet-stringbuilder-tests.csproj" Id="1b688016-9505-45a6-b616-ed934da05f56" />
+  </Folder>
+  <Project Path="pointsbet-stringbuilder/pointsbet-stringbuilder.csproj" />
+</Solution>
